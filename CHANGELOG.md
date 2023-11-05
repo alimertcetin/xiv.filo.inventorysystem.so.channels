@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/alimertcetin/xiv.filo.inventorysystem.so.channels/compare/v1.0.0...v1.0.1) (2023-11-05)
+
+
+### Bug Fixes
+
+* **packages.json:** Unity may not like "<=" notation ([a4f52a6](https://github.com/alimertcetin/xiv.filo.inventorysystem.so.channels/commit/a4f52a695c34d079f59b35a1f68619e3f47be414))
+
 # 1.0.0 (2023-11-05)
 
 
