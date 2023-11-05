@@ -9,8 +9,8 @@
   "changelogUrl": "",
   "licensesUrl": "",
   "dependencies": {
-    "xiv.filo.inventorysystem" : "<=1.0.5",
-    "xiv.filo.so.channels" : "<=2.0.0",
+    "xiv.filo.inventorysystem" : "1.0.5",
+    "xiv.filo.so.channels" : "2.0.0",
   },
   "keywords": [
     "XIV",
