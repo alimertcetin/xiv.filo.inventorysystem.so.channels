@@ -1,3 +1,15 @@
+# 1.0.0 (2023-11-05)
+
+
+### Features
+
+* Prepare for npm ([0bffcc6](https://github.com/alimertcetin/xiv.filo.inventorysystem.so.channels/commit/0bffcc690beb5863117acdcf0633f8794e7f7e80))
+
+
+### BREAKING CHANGES
+
+* Initial Release
+
 ## [1.0.1](https://github.com/alimertcetin/UnityPackageTemplate/compare/v1.0.0...v1.0.1) (2023-11-04)
 
 
