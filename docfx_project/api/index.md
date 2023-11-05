@@ -1,4 +1,4 @@
-# Package Name
-Welcome to the documentation of [package-name]
+# Inventory Channels
+Welcome to the documentation of Inventory Channels
 
-[package-description]
+[ScriptableObject Channel](https://www.npmjs.com/package/xiv.filo.so.channels) plugin for [Inventory System](https://www.npmjs.com/package/xiv.filo.inventorysystem)

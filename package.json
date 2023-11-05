@@ -1,23 +1,38 @@
 {
-  "name": "xiv.filo.unitypackagetemplate",
+  "name": "xiv.filo.inventorysystem.so.channels",
   "version": "0.0.0",
-  "displayName": "Package Display Name",
-  "description": "Package Description.",
+  "displayName": "Inventory Channels",
+  "description": "ScriptableObject Channel plugin for Inventory System.",
   "unity": "",
   "unityRelease": "",
   "documentationUrl": "",
   "changelogUrl": "",
   "licensesUrl": "",
-  "dependencies": { },
+  "dependencies": {
+    "xiv.filo.inventorysystem" : "<=1.0.5",
+    "xiv.filo.so.channels" : "<=2.0.0",
+  },
   "keywords": [
     "XIV",
-    "Unity"
+    "Unity",
+    "Inventory",
+    "Channels"
   ],
   "publishConfig": {
     "access": "public"
   },
-  "author": {
-    "name": "Ali Mert Çetin",
-    "url": "https://alimertcetin.github.io/"
-  }
+  "author": "Ali Mert Çetin (https://alimertcetin.github.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimertcetin/xiv.filo.inventorysystem.so.channels.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/alimertcetin/xiv.filo.inventorysystem.so.channels/issues"
+  },
+  "homepage": "https://github.com/alimertcetin/xiv.filo.inventorysystem.so.channels#readme"
 }
